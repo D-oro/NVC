@@ -1,5 +1,9 @@
 # NVC
 API for Non-Violent Communication app
 
-### this is a handy little API for needs and feelings, check it out here: 
-https://d-oro.github.io/NVC/feelingsAndNeeds.json 
+### you can use this json file as an API for feelings and needs.
+Feelings:
+https://d-oro.github.io/NVC/feelings.json
+
+Needs:
+https://d-oro.github.io/NVC/needs.json
