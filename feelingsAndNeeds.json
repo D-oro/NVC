@@ -1,4 +1,5 @@
-{
+[
+    {
     "feelings":[
         "happy", 
         "excited", 
@@ -29,4 +30,5 @@
         "self-expression",
         "adventure"
     ]
-}
+    }
+]
